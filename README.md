@@ -1,4 +1,4 @@
-### Detection and Recognition of Obscured Vehicle License Plates using Image Processing and Machine Learning
+# Detection and Recognition of Obscured Vehicle License Plates using Image Processing and Machine Learning
 - A practical Automatic Number Plate Recognition (ANPR) system designed for Indian vehicle plates under difficult real-world conditions such as mud, rain, motion blur, glare, low light, perspective skew, non-standard fonts, and partial occlusion.
 ​
 
