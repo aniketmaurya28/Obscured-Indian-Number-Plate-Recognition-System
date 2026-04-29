@@ -26,7 +26,7 @@ Traditional ANPR systems perform well in controlled environments, but their perf
 ​- Provide a practical GUI-based application with result logging for real-world usage.
 ​
 
-# Key Features
+### Key Features
 - YOLO-based number plate detection with padded cropping.
 - Deskewing and geometric correction using minimum-area rectangle estimation.
 - Multi-fallback preprocessing with CLAHE, denoising, sharpening, and adaptive binarization.
@@ -38,7 +38,7 @@ Traditional ANPR systems perform well in controlled environments, but their perf
 ​- CSV logging for auditability and traceability.
 ​
 
-### System Architecture
+## System Architecture
 - The system follows an end-to-end modular pipeline.
 - Image or camera input.
 - YOLOv8-based plate detection.
@@ -51,7 +51,7 @@ Traditional ANPR systems perform well in controlled environments, but their perf
 ​- Final output display and CSV logging.
 ​
 
-## Tech Stack: 
+### Tech Stack: 
 
 Area	Tools / Methods
 Programming	Python 
@@ -142,7 +142,7 @@ According to the analysis, the proposed system achieved strong performance compa
 ​- Failure rate of the combined system: approximately 1%.
 ​
 
-# Condition-wise examples reported in the document include:
+### Condition-wise examples reported in the document include:
 - Clean daylight: combined accuracy reached 94%.
 ​- Skewed views: combined accuracy reached 88%.
 ​- Motion blur: combined accuracy reached 78%.
@@ -151,7 +151,7 @@ According to the analysis, the proposed system achieved strong performance compa
 ​- Night/glare: combined accuracy reached 63%.
 ​
 
-## Contributions
+### Contributions
 This project contributes:
 
 - A hybrid multi-engine ANPR recognition pipeline.
@@ -161,7 +161,7 @@ This project contributes:
 ​- A CPU-efficient solution intended for real-world use on modest hardware.
 ​
 
-## Use Cases
+### Use Cases
 - Automated toll collection.
 ​- Parking management systems.
 - Traffic surveillance and enforcement.
@@ -169,7 +169,7 @@ This project contributes:
 ​- Public safety and smart city transportation systems.
 ​
 
-## Future Scope
+### Future Scope
 - The report suggests several directions for improvement:
 - Video-based temporal fusion across multiple frames.
 - Stronger sequence-recognition models such as CRNN-based approaches.
@@ -179,7 +179,7 @@ This project contributes:
 - Image restoration for severely faded or occluded plates.
 ​
 
-## Publication
+### Publication
 The project report states that the work was published in IJIRSET, Volume 15, Special Issue 1, January 2026, and is also associated with an IJEDR 2026 paper version in the document's publication section.
 ​
 
