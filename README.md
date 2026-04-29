@@ -201,19 +201,23 @@ The project report states that the work was published in IJIRSET, Volume 15, Spe
 ## Team
 Sandesh Lande 
 ​
+
 Adarsh Mane 
+
 ​
 Aniket Maurya 
+
 ​
 Jayesh Wadekar 
+
 ​
 Guide: Asst. Prof. Gauri A. Bhosale 
 ​
 
-### License
+### License: 
 Add a license that matches how you want others to use the project. For student and portfolio projects, the MIT License is often the simplest option.
 
-### Notes for Future Developers
+### Notes for Future Developers:
 - Keep OCR outputs and resolver rules modular so they can be improved independently.
 - Preserve CSV logs because they help with debugging and auditability.
 - Maintain separate evaluation for plate accuracy, character accuracy, edit distance, and failure rate.
