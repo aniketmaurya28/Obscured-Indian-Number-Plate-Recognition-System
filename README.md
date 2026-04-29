@@ -127,28 +127,43 @@ Run-isolation repair for inconsistent characters.
 
 ### Dataset
 The dataset was prepared to reflect real Indian road conditions and includes:
+
 - Images of private and commercial vehicles.
-​- Samples captured using phone cameras and laptop webcams.
-​- Plates with mud, dirt, rain streaks, glare, blur, and low-light effects.
-​- Variations in font, spacing, angle, and plate style.
-​- YOLO-style annotations with train/validation/test splits of 80/10/10.
+
+- Samples captured using phone cameras and laptop webcams.
+​
+- Plates with mud, dirt, rain streaks, glare, blur, and low-light effects.
+​
+- Variations in font, spacing, angle, and plate style.
+​
+- YOLO-style annotations with train/validation/test splits of 80/10/10.
 ​
 
 ### Results
 According to the analysis, the proposed system achieved strong performance compared with standalone recognition baselines under difficult conditions.
-​- Full combined system plate accuracy: 0.84.
-​- EasyOCR-only plate accuracy: 0.78.
-​- CNN-only plate accuracy: 0.74.
-​- Failure rate of the combined system: approximately 1%.
+​
+- Full combined system plate accuracy: 0.84.
+​
+- EasyOCR-only plate accuracy: 0.78.
+​
+- CNN-only plate accuracy: 0.74.
+​
+- Failure rate of the combined system: approximately 1%.
 ​
 
 ### Condition-wise examples reported in the document include:
+
 - Clean daylight: combined accuracy reached 94%.
-​- Skewed views: combined accuracy reached 88%.
-​- Motion blur: combined accuracy reached 78%.
-​- Mud/dirt: combined accuracy reached 72%.
-​- Rain/low contrast: combined accuracy reached 73%.
-​- Night/glare: combined accuracy reached 63%.
+​
+- Skewed views: combined accuracy reached 88%.
+​
+- Motion blur: combined accuracy reached 78%.
+​
+- Mud/dirt: combined accuracy reached 72%.
+​
+- Rain/low contrast: combined accuracy reached 73%.
+​
+- Night/glare: combined accuracy reached 63%.
 ​
 
 ### Contributions
