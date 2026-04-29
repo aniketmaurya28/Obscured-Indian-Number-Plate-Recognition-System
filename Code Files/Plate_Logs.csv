@@ -1,0 +1,104 @@
+Date,Time,Plate,Confidence,Engine,Source,ValidFormat,Detail
+2026-03-18,11:02:04,MH20BY3665,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: resolved
+Voted: 'MH2OBY3665' (87.5%)
+Resolved: 'MH20BY3665'
+Fixes: p3:O>0
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-18,11:02:56,AP02BP2454,77.9%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: easy-plain-2x
+Voted: 'AP02BP24541' (85.0%)
+Resolved: 'AP02BP24541'
+Fixes: none
+Valid format: YES - ^[A-Z]{2}\d"
+2026-03-18,11:03:13,MH14EP4660,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: resolved
+Voted: 'MHI4EP4660' (85.6%)
+Resolved: 'MH14EP4660'
+Fixes: p2:I>1
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-18,11:03:56,PY69IL5995,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: voted
+Voted: 'PY69IL5995' (100.0%)
+Resolved: 'PY69IL5995'
+Fixes: none
+Valid format: YES - ^[A-Z]{2}\d{2}[A-Z]{"
+2026-03-18,11:04:08,BR31L5694,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: voted
+Voted: 'BR31L5694' (96.5%)
+Resolved: 'BR3115694'
+Fixes: p4:L>1(DxD)
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-18,11:04:40,MN80CB8418,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: resolved
+Voted: 'MNBOCB8418' (100.0%)
+Resolved: 'MN80CB8418'
+Fixes: p2:B>8; p3:O>0
+Valid format: YES - ^[A-Z]{"
+2026-03-18,11:04:51,GJ01Z4529,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: voted
+Voted: 'GJ01Z4529' (98.1%)
+Resolved: 'GJ0124529'
+Fixes: p4:Z>2(DxD)
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-18,11:05:54,RJ23A4623,93.2%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: voted
+Voted: 'RJ23A4623' (83.2%)
+Resolved: 'RJ2344623'
+Fixes: p4:A>4(DxD)
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-18,11:06:06,HP69OD8605,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: resolved
+Voted: 'HP690D8605' (90.7%)
+Resolved: 'HP69OD8605'
+Fixes: p4:0>O
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-18,11:07:01,JH93V4421,86.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: voted
+Voted: 'JH93V4421' (76.0%)
+Resolved: 'JH9314421'
+Fixes: p4:V>1(DxD)
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-18,11:08:05,MH02CB4545,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: easy-sharp-2x
+Voted: 'MH02CB4545' (71.1%)
+Resolved: 'MH02CB4545'
+Fixes: none
+Valid format: YES - ^[A-Z]{2}\d{2"
+2026-03-18,11:08:23,MH20CS1941,85.2%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: resolved
+Voted: 'MH2OCS1941' (70.2%)
+Resolved: 'MH20CS1941'
+Fixes: p3:O>0
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-18,11:08:38,TR1442TC,81.3%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: resolved
+Voted: 'IRKA42TC' (66.3%)
+Resolved: 'TR1442TC'
+Fixes: p2:K>1; p3:A>4; state:I>T
+Valid format: YES - ^"
+2026-03-18,11:46:31,DD41BI2061,91.7%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: resolved
+Voted: 'D04IB1206J' (76.7%)
+Resolved: 'DD41BI2061'
+Fixes: p1:0>O; p3:I>1; p5:1>I; p9:J>1; state:O>D
+V"
+2026-03-18,11:46:51,WE02X8795,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: voted
+Voted: 'WE02X8795' (99.5%)
+Resolved: 'WE0288795'
+Fixes: p4:X>8(DxD)
+Valid format: YES - ^[A-Z]{2}\d{2}[A"
+2026-03-25,11:03:43,WB06F9209,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: paddle-binary-2x
+Restored: noise(std=71)
+Voted: 'WBOGF9209' (85.5%)
+Resolved: 'WBOGF9209'
+Fixes: p2:O>0; p2:0>"
+2026-03-25,11:04:38,HR26CK8571,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: paddle-binary
+Restored: noise(std=75)
+Voted: 'HR26CK8571' (95.1%)
+Resolved: 'HR26CK8571'
+Fixes: none
+Valid for"
+2026-03-25,11:48:15,MH04FZ9068,94.2%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: paddle-plain
+Restored: circles, noise(std=27)
+Voted: 'SEOHHO4F7706' (43.1%)
+Resolved: 'SEOHHOAF7706'
+Fixes: p6"
+2026-03-25,11:50:49,RJ45CO0856,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: paddle-night
+Restored: noise(std=29)
+Voted: 'RJ45C00856' (91.4%)
+Resolved: 'RJ45CO0856'
+Fixes: p5:0>O
+Valid fo"
+2026-03-25,12:02:11,MH04HU1365,100.0%,PaddleOCR+EasyOCR+Vote,Image,YES,"Pipeline: paddle-plain
+Restored: disabled
+Voted: 'MHO4HU1365' (85.8%)
+Resolved: 'MH04HU1365'
+Fixes: p2:O>0
+Valid format:"

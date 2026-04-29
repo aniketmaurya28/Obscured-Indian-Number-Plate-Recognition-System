@@ -1,0 +1,22 @@
+# Core Dependencies
+opencv-python==4.8.1.78
+numpy==1.26.4
+Pillow==10.1.0
+
+# Deep Learning & OCR
+torch==2.1.0
+torchvision==0.16.0
+ultralytics==8.0.196
+
+# PaddleOCR (FIXED VERSION - critical for v11.6+)
+paddlepaddle==2.6.2
+paddleocr==2.8.1
+
+# EasyOCR
+easyocr==1.7.0
+
+# GUI (usually pre-installed with Python)
+# tkinter comes with Python - no separate install needed
+
+# Optional but recommended
+python-dateutil==2.8.2
