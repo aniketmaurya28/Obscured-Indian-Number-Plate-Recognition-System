@@ -1,7 +1,3 @@
-1. This folder contains all the code files created by us from the day 1. 
+All the above files are the final committed and executed version of the major project idea. 
 
-2. It includes the failure codes for CNN and CRNN model which was going to used for betterment of the model.
-
-3. Failure logs and plte logs which was used for upgrading the problems faced in the previous versions.
-
-4. It also includes the file requirements file for the project.
+The one's which doesn't make it till the end were CNN, CRNN and multiple.other version of main.py 
